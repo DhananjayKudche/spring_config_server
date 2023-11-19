@@ -1,0 +1,2 @@
+# spring_config_server
+spring_config_server for handling microservices
